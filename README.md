@@ -1,9 +1,10 @@
 # Assembly Configurator
 
-Расширение для установки/обновления расширений и модификаторов.
+Extension for installing / updating extensions and modifiers.
 
-### Совместимость
+### Compatibility
 - OpenCart 3.0.3.x
 
-## Ссылки
-- [Файл на форуме](https://forum.opencart.name/resources/108/)
+## Links
+- [File on the forum] (https://forum.opencart.name/resources/108/) 
+- 
